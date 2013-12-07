@@ -2,4 +2,5 @@ warpPhoto
 =========
 
 warp photo on android(扭曲图片)
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+这是一个用于扭曲图片的代码，里面用到了一些像素插值算法，不过效率还是不太让人满意，不知道怎么去改进了。。。。
+
